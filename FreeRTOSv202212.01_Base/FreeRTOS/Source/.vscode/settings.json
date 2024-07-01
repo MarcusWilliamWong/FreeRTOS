@@ -1,0 +1,8 @@
+{
+	"files.associations": {
+		"*.cpp": "cpp",
+		"freertos.h": "c",
+		"task.h": "c",
+		"portmacro.h": "c"
+	}
+}
